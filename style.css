@@ -3,6 +3,13 @@ h1 {
 	font-size: 50px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 500;
+	font-weight: 800;
 	line-height: 26.4px;
+        border-top: 15px solid #E8434E;
+        text-align: center;
+}
+
+#info {
+	color: gray;
+        text-align: center;
 }
