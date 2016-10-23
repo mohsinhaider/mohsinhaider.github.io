@@ -7,11 +7,12 @@ h1 {
 	line-height: 26.4px;
         border-top: 15px solid #E8434E;
         text-align: center;
-        margin-top: 10px;
-        padding-top: 10px;
+        padding-top: 30px;
 }
 
 #info {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: gray;
+        font-size: 20px;
         text-align: center;
 }
