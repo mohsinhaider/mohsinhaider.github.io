@@ -11,7 +11,7 @@ h1 {
         padding-top: 30px;
         margin-right: none;
         margin-left: none;
-        margin-bottom: 0px;
+        margin-bottom: 2%;
 }
 
 #info {
@@ -19,11 +19,10 @@ h1 {
 	color: gray;
         font-size: 20px;
         text-align: center;
-        margin-top: 0px;
 }
 
 body {	
 	margin-left: 0px;
         margin-right: 0px;
-
+        background: #FAF5F5;
 }
