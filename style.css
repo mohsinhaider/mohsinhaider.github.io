@@ -26,3 +26,17 @@ body {
         margin-right: 0px;
         background: #FAF5F5;
 }
+
+.fa-file {
+   	text-align:center;
+}
+
+.icon-resume {
+         margin-top: 2%;
+         margin-left: 50%;
+         color: #3B3B3B; 
+}
+
+i {
+         color: #3B3B3B;
+}
