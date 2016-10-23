@@ -1,14 +1,16 @@
 h1 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 50px;
+	font-size: 65px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 800;
 	line-height: 26.4px;
-        border-top: 50px solid #E8434E;
+        border-top: 40px solid #E8434E;
         text-align: center;
         margin-top: 15px;
         padding-top: 30px;
+        margin-right: none;
+        margin-left: none;
 }
 
 #info {
