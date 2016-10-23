@@ -11,6 +11,7 @@ h1 {
         padding-top: 30px;
         margin-right: none;
         margin-left: none;
+        margin-bottom: 0px;
 }
 
 #info {
@@ -18,6 +19,7 @@ h1 {
 	color: gray;
         font-size: 20px;
         text-align: center;
+        margin-top: 0px;
 }
 
 body {	
