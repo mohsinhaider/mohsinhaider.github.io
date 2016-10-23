@@ -5,8 +5,9 @@ h1 {
 	font-variant: normal;
 	font-weight: 800;
 	line-height: 26.4px;
-        border-top: 15px solid #E8434E;
+        border-top: 50px solid #E8434E;
         text-align: center;
+        margin-top: 15px;
         padding-top: 30px;
 }
 
