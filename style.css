@@ -11,10 +11,11 @@ body {
 
 
 .left {
-	max-width: 30%;
+	max-width: 39%;
 	min-width: 275px;
-	margin-left: 19%;
+	margin-left: 15%;
 	margin-top: 4.5%;
+	margin-bottom: 4.5%;
 }
 
 h2 {
