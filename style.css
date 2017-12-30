@@ -3,10 +3,25 @@
 }
 
 body {
-	background: url("images/background-test.png");
-	background-repeat: no-repeat;
-	background-size: cover;
 	font-size: 14px;
+}
+
+.restrict {
+	height: auto; 
+	width: auto; 
+    max-width: 406px; 
+    max-height: 314px;
+}
+
+.centered {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	/* bring your own prefixes */
+}
+
+.transform-center {
+	transform: translate(-50%, -50%);
 }
 
 
