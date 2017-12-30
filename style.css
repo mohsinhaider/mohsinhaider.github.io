@@ -6,7 +6,7 @@ body {
 	font-size: 14px;
 }
 
-.restrict {
+#restrict {
 	height: auto; 
 	width: auto; 
     max-width: 406px; 
